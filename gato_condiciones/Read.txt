@@ -1,0 +1,5 @@
+El programa actual del gato deberia verificar todas las jugadas posibles del usuario de manera que:
+-El usuario nunca gane
+-La maquina tenga el primer movimiento
+
+Debido a problemas con la definicion de cada jugada posible por el usuario, el programa actual no cumple 100% con la primera condicion.
